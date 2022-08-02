@@ -1,9 +1,9 @@
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>Nadeem ANwar </h1>
+      <h1>Nadeem ANwar personal portfolio </h1>
     </div>
   );
 }
